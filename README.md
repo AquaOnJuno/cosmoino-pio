@@ -17,7 +17,7 @@
 Please:
 
 - **Do not use in production**
-- **Do not use a ch1p.**
+- **Do not whale phrases on ur ch1p.**
 - **Have a separate and marked device that is used ONLY for development and testing**
 
 # Development
