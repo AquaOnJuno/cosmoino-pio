@@ -1,13 +1,11 @@
-# Ledger Cosmos app
+# Cosmoino SDK aka MicroCosmos for Wasm Hub
+
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 [![GithubActions](https://github.com/AquaOnJuno/cosmoino-pio/actions/workflows/main.yml/badge.svg)](https://github.com/AquaOnJuno/cosmoino-pio/blob/main/.github/workflows/main.yaml)
 
 ---
 
-
----
-
-This project contains alpha.
+==This project contains alpha.==
 
 - Cosmos in C
 - Specs / Documentation
